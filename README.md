@@ -1,5 +1,6 @@
-<h1 align="center"> MA-VDM </h1>
+<h1 align="center"> Video Examples </h1>
 
+Finetuning on AnimateDiff+UCF101.
 
 &nbsp;
 
@@ -26,7 +27,7 @@ With a stronger IC motion alignment, the subject/background consistency is bette
 
 ### $\alpha_{IC} = 0.01$, $\alpha_{LC} = 0.6$
 
-With a stronger LC motion alignment, the motion dynamic degree is higher, 
+With a stronger LC motion alignment, the motion dynamic degree is higher.
 <h3 align="center"> <img src="./ic0.01_lc0.6_grid_downsampled.gif" alt="alpha_ic_0.01_alpha_lc_0.6"> </h3>
 
 
